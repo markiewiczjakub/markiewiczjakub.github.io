@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.69a60644.css",
-    "main.js": "/static/js/main.0f093e61.js",
-    "static/js/787.69d6e9ff.chunk.js": "/static/js/787.69d6e9ff.chunk.js",
-    "index.html": "/index.html",
-    "main.69a60644.css.map": "/static/css/main.69a60644.css.map",
-    "main.0f093e61.js.map": "/static/js/main.0f093e61.js.map",
-    "787.69d6e9ff.chunk.js.map": "/static/js/787.69d6e9ff.chunk.js.map"
+    "main.css": "/chess-coordinate-trainer/static/css/main.69a60644.css",
+    "main.js": "/chess-coordinate-trainer/static/js/main.21c3a495.js",
+    "static/js/787.69d6e9ff.chunk.js": "/chess-coordinate-trainer/static/js/787.69d6e9ff.chunk.js",
+    "index.html": "/chess-coordinate-trainer/index.html",
+    "main.69a60644.css.map": "/chess-coordinate-trainer/static/css/main.69a60644.css.map",
+    "main.21c3a495.js.map": "/chess-coordinate-trainer/static/js/main.21c3a495.js.map",
+    "787.69d6e9ff.chunk.js.map": "/chess-coordinate-trainer/static/js/787.69d6e9ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69a60644.css",
-    "static/js/main.0f093e61.js"
+    "static/js/main.21c3a495.js"
   ]
 }
